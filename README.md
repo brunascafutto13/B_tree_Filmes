@@ -1,2 +1,2 @@
-# B_tree para recuperar filmes de um sistema de arquivos
+# Btree para recuperar filmes de um sistema de arquivos
 Trabalho de ORI
